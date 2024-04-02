@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Michael_Mei_Simple_Boggle</string>
+    <string name="score_format">Score: %d</string>
+    <string name="default_score">Score: 0</string>
+    <string name="new_game">New Game</string>
+    <string name="S">S</string>
+    <string name="T">T</string>
+    <string name="N">N</string>
+    <string name="G">G</string>
+    <string name="E">E</string>
+    <string name="I">I</string>
+    <string name="A">A</string>
+    <string name="D">D</string>
+    <string name="R">R</string>
+    <string name="L">L</string>
+    <string name="P">P</string>
+    <string name="O">O</string>
+</resources>
